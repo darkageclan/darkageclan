@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**shurifish/shurifish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+$\text{\color{#58bcf6} sh͟u͟r͟i͟fi͟n͟ ෆ she / he }$\
+$\text{\color{#58bcf6} 18yo }$
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+$\text{\color{#58bcf6} c+h always enc ◞ w2i }$\
+$\text{\color{#58bcf6} low energy, sorry if i act disinterested}$
+
+
+
+</div>
