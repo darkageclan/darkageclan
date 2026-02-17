@@ -9,5 +9,6 @@ $\text{\color{#58bcf6} c+h always enc ◞ w2i }$\
 $\text{\color{#58bcf6} low energy, sorry if i act disinterested}$
 
 
+[info](https://rentry.co/guillotineblossom)
 
 </div>
