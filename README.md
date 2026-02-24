@@ -12,6 +12,6 @@ $\text{\color{#2d2448} i am on medication that gives me insomnia}$\
 $\text{\color{#2d2448} if you see me online a lot that's why}$
 
 
-[info](https://rentry.co/guillotineblossom)
+[info](https://rentry.co/guillotineblossom) $\text{\color{#2d2448}  ෆ  }$ [ata](https://shurifish.atabook.org/)
 
 </div>
