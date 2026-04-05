@@ -1,15 +1,16 @@
-
 <div align="center">
+<table>
+<tr>
+<td>
+</p>
+<div align="center">
+          oh
+<details>
+<summary> </summary>
 
-$\text{\color{#e02542} rocks ෆ she / he }$\
-$\text{\color{#e02542} 18yo }$
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zbr507sz6hmcwi68id24fiz7m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-
-$\text{\color{#e02542} c+h always enc ◞ iwcare }$\
-$\text{\color{#e02542} low energy 24/7}$\
-$\text{\color{#e02542} I am antisocial even when approached.}$
-
-
-[info](https://rentry.co/guillotineblossom) $\text{\color{#e02542}  ෆ  }$ [ata](https://shurifish.atabook.org/)
-
-</div>
+</details>
+            
+</p>
+</td>
